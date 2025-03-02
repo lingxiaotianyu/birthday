@@ -44,7 +44,7 @@ var config = {
         bannar_coming: "叮咚",
         balloons_flying: "好像少点东西",
         cake_fadein: "怎么没有蛋糕",
-        light_candle: "少了蜡烛",
+        light_candle: "点蜡烛",
         wish_message: "生日快乐呀~",
         story: "想对你说点话",
     }
